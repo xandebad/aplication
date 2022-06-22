@@ -1,0 +1,23 @@
+ {
+    "name": "Timbaúba 24 Horas",
+    "short_name": "Timbaúba 24 Horas",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6tPwjkN7hVMGKoMUWqCnq2IuWwU9tKIEyMx1eZ7wp6DXPMKYSLUplT65QEx1WUrFmyJYWOmEHJ0-d53g8UxgQ31Kc0eDFI81w5h5n9pGkLoGynHsyBdTkR58I3p8WYvV8Zca_UWT6qt_KLVRwIDxPtARZ4W7a9lueXUm3imvIeezam8m3l7ICulME/s192/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgor5iG4dVVVIdfmTDxl2mWDx_rt_27UiQrtCqSRt-LT6dR5CGdGU59XjODPbpeCc8c4y8niuwppWK0UOPY7AImOXp0EM4U0cB1sytPka0x_5EUQRYKcurFEIRFBzah7jMR2OeRiY6LcJ1ljc69tdVIxi6ssiCUbCsXlK7KoQ2fmZdmfqJZuZ6jELSU/s512/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.timbauba24horas.com.br"
+}
